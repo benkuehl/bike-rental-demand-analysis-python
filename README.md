@@ -4,7 +4,11 @@
 
 Statistical analysis of hourly bike rental demand for an urban bike-share operator, examining how time-of-day, weekday/weekend patterns, and weather-related variables drive rental activity and translating those drivers into operational recommendations for fleet sizing, marketing positioning, and pricing.
 
-![Analysis Preview](analysis-preview.png)
+<p align="center">
+  <img src="analysis-preview.png" width="48%" alt="Correlation Heatmap" />
+  &nbsp;
+  <img src="hourly-demand-pattern.png" width="48%" alt="Hourly Demand by Day Type" />
+</p>
 
 ---
 
